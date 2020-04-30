@@ -20,4 +20,3 @@ for li in ul:
     categories.append(li.text)
 
 print(categories)
-print(driver.capabilities)
